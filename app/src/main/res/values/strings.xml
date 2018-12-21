@@ -1,0 +1,9 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">BakingApp</string>
+
+    <string name="servings_label">Servings:</string>
+    <string name="recipe_icon_description">Recipe Icon</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="recipes_info">To add recipe to widget, just tap the radio button !</string>
+    <string name="ingredients_list_label">Ingredients List</string>
+</resources>
